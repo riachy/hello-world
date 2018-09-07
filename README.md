@@ -1,2 +1,2 @@
 # hello-world
-just a sample demo
+this is a sample demo we edited in the readme-edits 
